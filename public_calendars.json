@@ -1,5 +1,7 @@
 {"public_calendars":[
 {"friendlyName":"F1 Kwalificaties en races", "link":"https://f1calendar.com/download/nl/f1-calendar_q_gp.ics"},
+{"friendlyName":"F1 Races", "link":"https://f1calendar.com/download/nl/f1-calendar_gp.ics"},
 {"friendlyName":"F1 Trainingen, kwalificaties en races", "link":"https://f1calendar.com/download/nl/f1-calendar_p1_p2_p3_q_gp.ics"},
 {"friendlyName":"Feestdagen NL", "link":"https://calendar.google.com/calendar/ical/nl.dutch%23holiday%40group.v.calendar.google.com/public/basic.ics"}
+{"friendlyName":"Feestdagen NL Test", "link":"https://calendar.google.com/calendar/ical/nl.dutch%23holiday%40group.v.calendar.google.com/public/basic2.ics"}
 ]}
